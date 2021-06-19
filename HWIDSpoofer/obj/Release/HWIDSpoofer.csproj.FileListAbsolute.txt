@@ -1,0 +1,17 @@
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\bin\Release\HWIDSpoofer.exe.config
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\bin\Release\HWIDSpoofer.exe
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\bin\Release\HWIDSpoofer.pdb
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\bin\Release\Microsoft.Management.Infrastructure.dll
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\obj\Release\MainWindow.g.cs
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\obj\Release\App.g.cs
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\obj\Release\HWIDSpoofer_MarkupCompile.cache
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\obj\Release\HWIDSpoofer_MarkupCompile.lref
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\obj\Release\MainWindow.baml
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\obj\Release\HWIDSpoofer.g.resources
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\obj\Release\HWIDSpoofer.Properties.Resources.resources
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\obj\Release\HWIDSpoofer.csproj.GenerateResource.cache
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\obj\Release\HWIDSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\obj\Release\HWIDSpoofer.csproj.CopyComplete
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\obj\Release\HWIDSpoofer.exe
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\obj\Release\HWIDSpoofer.pdb
+C:\Users\illya\source\repos\HWIDSpoofer\HWIDSpoofer\obj\Release\HWIDSpoofer.csproj.AssemblyReference.cache
