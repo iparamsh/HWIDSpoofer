@@ -8,6 +8,6 @@ Yes, this is HWID spoofer that is changing registry and some other stuff that wa
 
 1. place file - VolumeId.exe in C:/ and nothing else if you will not do that it will not spoof VolumeID (official link of download https://docs.microsoft.com/uk-ua/sysinternals/downloads/volumeid)
 
-![image](https://user-images.githubusercontent.com/73321844/123223309-a4780500-d485-11eb-8fc1-f256ad662848.png)
+![Screenshot_195](https://user-images.githubusercontent.com/73321844/123336219-6bc64300-d4fa-11eb-898e-7c0e411fc38e.png)
 
 2. and  thats it (you can change path in ChangeVolumeId class)
