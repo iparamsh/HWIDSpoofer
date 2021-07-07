@@ -1,5 +1,5 @@
 # HWIDSpoofer
-Yes, this is HWID spoofer that is changing registry and some other stuff that was wrote on C#, it has sexy design, yeeaaahhh code is not the best and MAYBE there is some better way to write it, so don't be really rude about it, to memorize and restore HWID it is reading and writing txt file that is in C:/HWID.txt, it takes all EAC registry keys (It may work in sime games)
+Yes, this is HWID spoofer that is changing registry and some other stuff that was wrote on C#, it has sexy design, yeeaaahhh code is not the best and MAYBE there is some better way to write it, so don't be really rude about it, to memorize and restore HWID it is reading and writing txt file that is in C:/HWID.txt, it takes all EAC registry keys (It may work in some games)
 
 ![image](https://user-images.githubusercontent.com/73321844/123222597-f0767a00-d484-11eb-9465-797f2d2abee2.png)
 
