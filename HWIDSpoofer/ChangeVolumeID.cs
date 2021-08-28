@@ -17,7 +17,7 @@ namespace HWIDSpoofer
 
             Process process = new Process();
             process.StartInfo.FileName = "cmd.exe";
-            process.StartInfo.CreateNoWindow = false;
+            process.StartInfo.CreateNoWindow = true;
             process.StartInfo.RedirectStandardInput = true;
             process.StartInfo.RedirectStandardOutput = true;
             process.StartInfo.UseShellExecute = false;
@@ -35,6 +35,7 @@ namespace HWIDSpoofer
             }
 
             process.StandardInput.Close();
+            Console.WriteLine(process.StandardOutput.ReadToEnd());
             process.WaitForExit();
         }
 
